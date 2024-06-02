@@ -7,4 +7,5 @@
 3. [Getting Started with Git and GitHub](https://coursera.org/share/daba306a99d01f2445cb3def636f19f1)
 4. [Developing Front-End Apps with React](https://coursera.org/share/1308b98664623b5af47b8d2771d853d7)
 5. [Developing Back-End Apps with Node.js and Express](https://coursera.org/share/d9bbf834cb1730f8fc51cf98d8701679)
+6. [Python for Data Science, AI and Development](https://coursera.org/share/b779b1da0f5550aadb41ce240586c2ce)
 
