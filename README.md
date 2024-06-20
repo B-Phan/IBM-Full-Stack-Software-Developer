@@ -11,3 +11,4 @@
 7. [Developing AI Applications with Python and Flask](https://coursera.org/share/51136864cd21237541ef0ee7d09967d0)
 8. [Developing Applications with SQL, Databases, and Django](https://coursera.org/share/701dde52869740bb58a25d9b0fdeb5da)
 9. [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://coursera.org/share/288ce231c44b48800be4b2c845d15bcf)
+10. [Application Development using Microservices and Serverless](https://coursera.org/share/84780d857e154c5a89c0d616c0c8403e)
