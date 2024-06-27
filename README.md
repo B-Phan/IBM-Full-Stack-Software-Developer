@@ -1,4 +1,5 @@
 # IBM-Full-Stack-Software-Developer
+![Brandon-Phan-IBM-FS-Completion](https://github.com/B-Phan/IBM-Full-Stack-Software-Developer-Certificates/assets/104797814/3add7cf3-f10e-4775-a1e2-9df5d1ac1368)
 
 ## Certificates
 
